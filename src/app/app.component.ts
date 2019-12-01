@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'workshop-angular';
+
+  public magicNumber: number;
 }
+
